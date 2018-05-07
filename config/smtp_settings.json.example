@@ -1,0 +1,8 @@
+[
+	{ "name": "smtp.hostname", "value": "" },
+	{ "name": "smtp.port", "value": "465" },
+	{ "name": "smtp.username", "value": "" },
+	{ "name": "smtp.password", "value": "" },
+	{ "name": "smtp.from", "value": "" },
+	{ "name": "smtp.secure", "value": "true" }
+]
